@@ -1,2 +1,2 @@
-# Sef-Taught-Bioinformatics
+# Self-Taught-Bioinformatics
 Hey! This is where I apply various bioinformatics algorithms I learn (mostly from the Coursera course "Algorithms for DNA Sequencing" by John Hopkins University) to DNA sequences that I find myself. The algorithms are not original. I apply them to genomic/proteomic sequences I find on various database websites like NCBI. My code comments, the graphs my code generates, and the analysis I do are original.
